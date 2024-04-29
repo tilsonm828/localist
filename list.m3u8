@@ -1,0 +1,79 @@
+#EXTM3U x-tvg-url="http://i.mjh.nz/nz/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="tv.10",[中文频道]
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",CCTV新闻
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",港台电视31
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",港台电视32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",凤凰资讯[x]
+https://php.17186.eu.org/phtv/fhzx.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",凤凰中文[x]
+https://php.17186.eu.org/phtv/fhzw.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",[英文频道]_Bloomberg+
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",CBS_Bos
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",CBS_NY
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",BBC美洲
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",NewsAsia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",SkyNews
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",TRT
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",RT
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",OAN
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10",France24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TalkTV.uk",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="TaiwanPlus",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
