@@ -1,73 +1,73 @@
 #EXTM3U x-tvg-url="http://i.mjh.nz/nz/epg.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/cna.jpg" tvg-id="tv.10",新加坡-亚洲新闻[英]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/cna.jpg" tvg-id="tv.10",新加坡-亚洲新闻[英]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/aljazeera.png" tvg-id="tv.10",卡塔尔-半岛新闻[英]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/aljazeera.png" tvg-id="tv.10",卡塔尔-半岛新闻[英]
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/cnn.png" tvg-language="English",美国-CNN国际[英]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/cnn.png" tvg-language="English",美国-CNN国际[英]
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/cnni.jpg" tvg-language="English",美国-CNN本土[英]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/cnni.jpg" tvg-language="English",美国-CNN本土[英]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/globalnews.jpg",加拿大-温哥华新闻[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/globalnews.jpg",加拿大-温哥华新闻[英]
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/twplus.jpg",台湾-台湾plus[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/twplus.jpg",台湾-台湾plus[英]
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/newsmax.png",美国-极限新闻[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/newsmax.png",美国-极限新闻[英]
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/abcnewsau.png",澳洲-ABC新闻[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/abcnewsau.png",澳洲-ABC新闻[英]
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/rt.jpg",俄国-今日俄罗斯[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/rt.jpg",俄国-今日俄罗斯[英]
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/oan.png",美国-OAN[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/oan.png",美国-OAN[英]
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/nhk.jpg",日本-NHK[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/nhk.jpg",日本-NHK[英]
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/livenow.jpg",美国-LiveNow[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/livenow.jpg",美国-LiveNow[英]
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/france24.jpg",法国-France24新闻[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/france24.jpg",法国-France24新闻[英]
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/cbsn.jpg",美国-CBS新闻[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/cbsn.jpg",美国-CBS新闻[英]
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/nbc_home.jpg",美国-NBC房产[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/nbc_home.jpg",美国-NBC房产[英]
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/nbc_chicago.jpg",美国-NBC芝加哥[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/nbc_chicago.jpg",美国-NBC芝加哥[英]
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/yahoofn.png",美国-雅虎财经[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/yahoofn.png",美国-雅虎财经[英]
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/bloomberg.jpg",美国-彭博财经[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/bloomberg.jpg",美国-彭博财经[英]
 https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/tvbxh.jpg",香港-TVB星河[粤]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/tvbxh.jpg",香港-TVB星河[粤]
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/ntv-news24.jpg",日本-日语新闻
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/ntv-news24.jpg",日本-日语新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/tbs.jpg",韩国-TBS[韩]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/tbs.jpg",韩国-TBS[韩]
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/kbsworld.jpg",韩国-KBS World[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/kbsworld.jpg",韩国-KBS World[英]
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/arirang.jpg",韩国-阿里郎[英]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/arirang.jpg",韩国-阿里郎[英]
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://gitee.com/kyweei/localist/raw/master/images/ktv.png",韩国-KoreaTV[韩]
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/tilsonm828/localist/main/images/ktv.png",韩国-KoreaTV[韩]
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
