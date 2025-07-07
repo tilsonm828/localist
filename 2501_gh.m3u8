@@ -1,0 +1,61 @@
+#EXTM3U x-tvg-url="http://i.mjh.nz/nz/epg.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/cna.jpg" tvg-id="tv.10",新-亚洲新闻[英]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/aljazeera.png" tvg-id="tv.10",卡-半岛新闻[英]
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/globalnews.jpg",加-温哥华新闻[英]
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/bloomberg.jpg",美-彭博财经[英]
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/cnn.png" tvg-language="English",美-CNN[英]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/newsmax.png",美-NewsMAx[英]
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/cbsn.jpg",美-CBSnews[英]
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/pbskids.png",美-PBSkids[英]
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/kidsflix.jpg",美-KidsFlix[英]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&amp;live=1&amp;app_bundle=com.plexapp.desktop
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/pix11.jpg",美-PIX11[英]
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/htv.jpg",美-HoustonTV[英]
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/nbc_home.jpg",美-NBC房产[英]
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/nbc_chicago.jpg",美-NBC芝加哥[英]
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/yahoofn.png",美-雅虎财经[英]
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/livenow.jpg",美-ScrippsNews[英]
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/nhk.jpg",日-NHK[英]
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/rt.jpg",俄-RT[英]
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/tbs.jpg",韩-TBS[韩]
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/arirang.jpg",韩-阿里郎[英]
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/rexxboston/viuvt/blob/main/images/koreatv.png",韩-KoreaTV[韩]
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
